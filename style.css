@@ -1,0 +1,42 @@
+h1 {
+    color: #f72828;
+    text-align: center;
+    border-radius: 40px;
+    border: 3px dashed #f32222;
+    padding: 10px;
+    font-weight: 1000;
+    }
+h2 {
+    color: #000080;
+    text-align: center;
+    text-decoration: underline;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e0dede;
+}             
+.nguon {
+    color: #808080;
+    text-decoration: underline;
+}
+img {
+    width: 500px;
+    height: 350px;
+}
+ol {
+    font-size: 18px;
+}
+.ul{
+    font-size: 18px;
+}
+iframe {
+    width: 100%;
+    height: 750px;
+}
+#p {
+    font-size: 18px;
+}
+#anh {
+    width: 50%;
+    height: 50%;
+}
